@@ -1,2 +1,2 @@
-# HTML-project
+# Kuba
 Use HTML, CSS, JavaScript
